@@ -7,5 +7,5 @@
 - 💬 Ask me about big data architecture and implementing production ready data science algorithms
 - 📫 How to reach me: [renien.com](http://renien.com/about/)
 - 😄 Pronouns: Renien
-- ⚡ Fun fact: Traveler 🌎, Water Garden 🌻, Fishkeeping 🐡, teacher and many other stuffs
+- ⚡ Fun fact: Dad to 👼 be. Loading..., Traveler 🌎, Water Garden 🌻, Fishkeeping 🐡, teacher and many other stuffs
 
